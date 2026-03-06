@@ -1,7 +1,7 @@
 // Replace with your real release URLs before deploying.
 const DOWNLOAD_LINKS = {
-  arm64: "https://example.com/OpenClaw-Launcher-darwin-arm64.zip",
-  x64: "https://example.com/OpenClaw-Launcher-darwin-x64.zip",
+  arm64: "https://static2.gopluslabs.io/OpenClaw+Launcher-darwin-arm64.zip",
+  x64: "https://static2.gopluslabs.io/OpenClaw+Launcher-darwin-x64.zip",
 };
 
 const el = {
